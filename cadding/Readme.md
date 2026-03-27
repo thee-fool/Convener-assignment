@@ -1,6 +1,8 @@
 ## Leg CADding Task
 
 Did you know that a walking motion can be achieved using just a single rotating motor — no complex controls needed? This is made possible by the **Klann Linkage Mechanism**, which converts simple rotary motion into a realistic walking gait, closely mimicking the movement of legged animals. Despite looking complex, it is built entirely from simple pivot-jointed links, making it a great mechanical modeling challenge.
+![F4-motion](https://github.com/user-attachments/assets/3bb060ea-029b-4a8f-9112-89c9178883ff)
+
 
 Your task is to model the walking motion of a leg using the Klann Linkage Mechanism in any CAD software of your choice. We recommend using **SolidWorks** for this task.
 
