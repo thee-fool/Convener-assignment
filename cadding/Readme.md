@@ -11,6 +11,7 @@ Your task is to model the walking motion of a leg using the Klann Linkage Mechan
 - [3D Model & Animation Reference](https://sketchfab.com/3d-models/klann-linkage-walking-machine-a2e02d225eb04e9395367a78e43fc8d7)
 
 YOU have to make the full model as in the animated video ( Hint! use mirror ). 
+The mechanism should be constrained such that rotating any one of the designated joints results in the movement of all four legs simultaneously.
 
 ### Submission Guidelines
 
